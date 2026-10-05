@@ -3,7 +3,7 @@
  <tileset firstgid="1" source="MainTileset.tsx"/>
  <tileset firstgid="19" source="MainObjects.tsx"/>
  <imagelayer id="2" name="Background" repeatx="1">
-  <image source="Tilesets/Main/BG/BG.png" width="1000" height="750"/>
+  <image source="Tilesets/Main/BG/BG.png" width="3413" height="2560"/>
  </imagelayer>
  <layer id="1" name="Ground" width="240" height="20">
   <data encoding="csv">

@@ -2,6 +2,7 @@
     "activeFile": "",
     "expandedProjectPaths": [
     ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
     "fileStates": {
         "": {
             "scaleInDock": 1
@@ -13,8 +14,16 @@
         },
         "MainTileset.tsx": {
             "dynamicWrapping": false,
-            "scaleInDock": 1,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
+        },
+        "MainTitle.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 3368,
+                "y": 584
+            }
         },
         "MainTitle.tmx#MainTileset": {
             "dynamicWrapping": true
@@ -27,6 +36,7 @@
     ],
     "project": "NinjAnne.tiled-project",
     "recentFiles": [
+        "MainTitle.tmx",
         "MainTileset.tsx",
         "MainObjects.tsx"
     ],
