@@ -1,0 +1,36 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "MainObjects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "MainTileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "MainTitle.tmx#MainTileset": {
+            "dynamicWrapping": true
+        }
+    },
+    "last.imagePath": "I:/GameDev/NinjAnne/src/NinjAnne.Core/Content/Assets/Tilesets/Main/Object",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 240,
+    "openFiles": [
+    ],
+    "project": "NinjAnne.tiled-project",
+    "recentFiles": [
+        "MainTileset.tsx",
+        "MainObjects.tsx"
+    ],
+    "tileset.embedInMap": false,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
