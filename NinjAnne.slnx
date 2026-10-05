@@ -1,0 +1,30 @@
+<Solution>
+    <Configurations>
+        <Platform Name="Any CPU" />
+        <Platform Name="x64" />
+    </Configurations>
+    <Folder Name="src/Platforms/">
+        <Project Path="src/NinjAnne.Android/NinjAnne.Android.csproj">
+            <BuildType Solution="*|x64" Project="?" />
+            <Platform Solution="*|x64" Project="?" />
+            <Build Solution="*|x64" Project="false" />
+            <Deploy Solution="*|Any CPU" />
+        </Project>
+        <Project Path="src/NinjAnne.DesktopGL/NinjAnne.DesktopGL.csproj">
+            <BuildType Solution="*|x64" Project="?" />
+            <Platform Solution="*|x64" Project="?" />
+            <Build Solution="*|x64" Project="false" />
+        </Project>
+        <Project Path="src/NinjAnne.iOS/NinjAnne.iOS.csproj">
+            <BuildType Solution="*|x64" Project="?" />
+            <Platform Solution="*|x64" Project="?" />
+            <Build Solution="*|x64" Project="false" />
+            <Deploy Solution="*|Any CPU" />
+        </Project>
+    </Folder>
+    <Project Path="src/NinjAnne.Core/NinjAnne.Core.csproj">
+        <BuildType Solution="*|x64" Project="?" />
+        <Platform Solution="*|x64" Project="?" />
+        <Build Solution="*|x64" Project="false" />
+    </Project>
+</Solution>
